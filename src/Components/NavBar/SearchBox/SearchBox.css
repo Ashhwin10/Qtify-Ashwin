@@ -1,0 +1,16 @@
+.searchbox {
+  padding: 30px 15px 14px;
+  height: 100%;
+  border-radius: 8px;
+  border-top-right-radius: 0px;
+  border-bottom-right-radius: 0px;
+  border: 1px solid var(--color-black);
+  width: 502px;
+}
+.search-btn {
+  border-radius: 0px 8px 8px 0px;
+  padding: 18px 15px 14px;
+  border: 1px solid var(--color-black);
+  border-left: none;
+  cursor: pointer;
+}
